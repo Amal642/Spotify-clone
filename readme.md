@@ -1,4 +1,4 @@
-#Spotify - clone
+Spotify - clone
 
 Spotify Clone made using HTML,CSS,JAVASCRIPT 
 
